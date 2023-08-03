@@ -1,0 +1,20 @@
+
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th, td{ 
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+
+}
+th, td, li{
+    text-align: center;
+}
+th, td{
+    font-family: Arial Narrow Bold;
+
+}
+

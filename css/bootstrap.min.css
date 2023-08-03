@@ -3927,7 +3927,7 @@ a.list-group-item:hover, a.list-group-item:focus {
 	overflow:hidden;
 	border-radius:4px
 }
-.panel-group .panel+.panel {
+.panel-group .panel.panel {
 	margin-top:5px
 }
 .panel-group .panel-heading {
